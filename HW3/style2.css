@@ -1,0 +1,26 @@
+form {
+	margin-left: auto;
+	margin-right: auto;
+	font-weight: bold;
+}
+
+div{
+	float: left;
+	margin-top: 1%;
+}
+
+
+
+input {
+	margin: 1% 7% 1% 2% ;
+
+}
+textarea{
+	margin: 1% 1% 1% 1.5% ;
+}
+
+img{
+	width: 45%;
+	margin: 1% 1% 1% 1.5%;
+}
+
